@@ -1,4 +1,4 @@
-# [Multilingual Pre-training with Language and Task Adaptation for Multilingual Text Style Transfer (ACL 2022)]
+# Multilingual Pre-training with Language and Task Adaptation for Multilingual Text Style Transfer (ACL 2022)
 
 ## Dependencies
 ```
