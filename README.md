@@ -1,8 +1,5 @@
 # [Multilingual Pre-training with Language and Task Adaptation for Multilingual Text Style Transfer (ACL 2022)]
 
-Code coming soon.
-
-
 ## Dependencies
 ```
 python==3.7
@@ -57,7 +54,7 @@ python infer_en_attn.py \
        -style 0
 ```
 
-## Cite
+## Citation
 ```
 @inproceedings{lai-etal-2022-multi,
     title = "Multilingual pre-training with Language and Task Adaptation for Multilingual Text Style Transfer",
