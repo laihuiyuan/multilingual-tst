@@ -37,14 +37,17 @@ python infer_en_attn.py -dataset xformal -lang it_IT -style 0
 
 ## Citation
 ```
-@inproceedings{lai-etal-2022-multi,
-    title = "Multilingual pre-training with Language and Task Adaptation for Multilingual Text Style Transfer",
+@inproceedings{lai-etal-2022-multilingual,
+    title = "Multilingual Pre-training with Language and Task Adaptation for Multilingual Text Style Transfer",
     author = "Lai, Huiyuan  and
       Toral, Antonio  and
       Nissim, Malvina",
-    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
-    month = May,
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = may,
     year = "2022",
+    address = "Dublin, Ireland",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-short.29",
+    pages = "262--271"
 }
 ```
